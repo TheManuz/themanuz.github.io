@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" >
+<path fill="#FFF" fill-rule="evenodd" d="M1.75 3h4.5v4.5h-3v3h-1.5V3Zm1.5 1.5h1.5V6h-1.5V4.5Z" clip-rule="evenodd"/>
+<path fill="#FFF" d="M7.25 3h1.5v1.5h-1.5V3ZM7.25 6h1.5v4.5h-1.5V6ZM9.75 3h1.5v3h-1.5V3ZM12.75 6h-1.5v1.5h-1.5v3h1.5v-3h1.5v3h1.5v-3h-1.5V6ZM12.75 6V3h1.5v3h-1.5ZM22.25 3h-1.5v7.5h1.5V3Z"/>
+<path fill="#FFF" fill-rule="evenodd" d="M19.75 3h-4.5v7.5h4.5V9h-3V7.5h3V3Zm-1.5 1.5h-1.5V6h1.5V4.5Z" clip-rule="evenodd"/>
+<path fill="#FFF" d="M3.25 13.5h1.5V15h-1.5v-1.5ZM.25 21v-1.5h3v-3h1.5V21H.25Z"/>
+<path fill="#FFF" fill-rule="evenodd" d="M5.75 13.5h4.5V21h-4.5v-7.5Zm1.5 1.5h1.5v4.5h-1.5V15Z" clip-rule="evenodd"/>
+<path fill="#FFF" d="M12.75 13.5h-1.5V15h1.5v-1.5ZM12.75 16.5h-1.5V21h1.5v-4.5ZM18.25 13.5h-4.5V21h1.5v-6h1.5v6h1.5v-7.5ZM20.75 13.5h1.5v3h1.5V18h-1.5v3h-1.5v-3h-1.5v-1.5h1.5v-3Z"/></svg>

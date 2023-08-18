@@ -1,0 +1,119 @@
+/* Typography */
+
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+@media (min-width: 576px) {
+    html {
+        font-size: 14px;
+    }
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 992px) {
+    html {
+        font-size: 18px;
+    }
+}
+
+@media (min-width: 1200px) {
+    html {
+        font-size: 20px;
+    }
+}
+
+/* Custom Styles */
+
+main {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: center;
+    padding: 0 30px;
+    text-align: center;
+
+    background: #36D1DC;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #5B86E5, #36D1DC);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #5B86E5, #36D1DC);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+    color: #FFF;
+}
+
+.intro {
+    font-family: 'Kanit', sans-serif;
+    font-size: 3.75em;
+    font-weight: 00;
+}
+
+.tagline {
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+.section {
+    margin: 0 auto 64px auto;
+}
+
+.icons-social {
+    margin: 16px auto;
+}
+
+.icons-social a {
+    text-decoration: none;
+    color: #FFF;
+    margin: 8px;
+}
+
+.icons-social a .icon {
+    width: 48px;
+    height: 48px;
+}
+
+.projects {
+    margin: 0px auto;
+}
+
+.projects a {
+    /* Glass style */
+    background: #FFFFFFD0;
+    border: 1px solid #FFF;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.1);
+    transition: transform ease 200ms, box-shadow ease 200ms;
+
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    border-radius: 32px;
+    padding: 8px;
+    margin: 12px auto;
+    text-decoration: none;
+    color: #000000D0;
+}
+
+.projects a:hover {
+    transform: translateY(-2px);
+    box-shadow: 0px 10px 20px 2px rgba(0, 0, 0, 0.25);
+}
+
+.projects a p {
+    flex-grow: 1;
+    font-size: 1.2rem;
+    font-weight: 100;
+    margin-left: 16px;
+}
+
+.projects a .icon {
+    width: 32px;
+    height: 32px;
+    opacity: 0.54;
+}
